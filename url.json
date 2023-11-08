@@ -7,13 +7,13 @@
   },
   {
     "url": "https://github.com/FongMi/CatVodSpider/raw/main/json/config.json",
-    "name": "FongMi",
+    "name": "fongmi",
     "baes": "https://github.com/FongMi/CatVodSpider/",
     "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
   },
   {
     "url": "https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json",
-    "name": "FongMi_adult",
+    "name": "fongmi_adult",
     "baes": "https://github.com/FongMi/CatVodSpider/",
     "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
   }
