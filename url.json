@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://github.com/gaotianliuyun/gao/raw/master/0821.json",
+    "name": "gaotianliuyun_0821",
+    "baes": "https://github.com/gaotianliuyun/gao/",
+    "path": "https://github.com/gaotianliuyun/gao/raw/master/"
+  },
+  {
+    "url": "https://github.com/FongMi/CatVodSpider/raw/main/json/config.json",
+    "name": "FongMi",
+    "baes": "https://github.com/FongMi/CatVodSpider/",
+    "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
+  },
+  {
+    "url": "https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json",
+    "name": "FongMi_adult",
+    "baes": "https://github.com/FongMi/CatVodSpider/",
+    "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
+  }
+]
