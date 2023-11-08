@@ -10,7 +10,7 @@ with open('./url.json', 'r', encoding='utf-8') as f:
 nameList = []
 reList = ["https://ghproxy.com/https://raw.githubusercontent.com", "https://cdn.staticaly.com/gh",
           "https://raw.fastgit.org", "https://raw.kgithub.com", "https://raw.iqiq.io",
-          "https://github.moeyy.xyz/https://raw.githubusercontent.com","https://gh-proxy.com"]
+          "https://github.moeyy.xyz/https://raw.githubusercontent.com"]
 for item in urlJson:
     urlReq = requests.get(item["url"], verify=False)
     for reI in range(len(reList)):
