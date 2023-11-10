@@ -34,3 +34,15 @@ fongmi_adult：https://raw.iqiq.io/shenpvip/tvbox-auto-update/main/tv/4/fongmi_a
 
 fongmi_adult：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/5/fongmi_adult.json 
 
+gaotianliuyun_0707：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/0/gaotianliuyun_0707.json 
+
+gaotianliuyun_0707：https://cdn.staticaly.com/gh/shenpvip/tvbox-auto-update/main/tv/1/gaotianliuyun_0707.json 
+
+gaotianliuyun_0707：https://raw.fastgit.org/shenpvip/tvbox-auto-update/main/tv/2/gaotianliuyun_0707.json 
+
+gaotianliuyun_0707：https://raw.kgithub.com/shenpvip/tvbox-auto-update/main/tv/3/gaotianliuyun_0707.json 
+
+gaotianliuyun_0707：https://raw.iqiq.io/shenpvip/tvbox-auto-update/main/tv/4/gaotianliuyun_0707.json 
+
+gaotianliuyun_0707：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/5/gaotianliuyun_0707.json 
+
