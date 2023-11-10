@@ -26,7 +26,7 @@ for item in urlJson:
             .replace('"https://github.com', '"' + reList[reI]) \
             .replace("'https://raw.githubusercontent.com", "'" + reList[reI]) \
             .replace('"https://raw.githubusercontent.com', '"' + reList[reI])
-        sourceList += urlName + '：' + reList[reI] + '/shenpvip/tvbox-auto-update/main'+"/tv/" + str(reI) + "/" + urlName + ".json \n\n"
+        sourceList += urlName + '：' + reList[reI] + '/shenpvip/tvbox/main'+"/tv/" + str(reI) + "/" + urlName + ".json \n\n"
         filePath = "./tv/" + str(reI)
         if not os.path.exists(filePath):
             os.makedirs(filePath)
