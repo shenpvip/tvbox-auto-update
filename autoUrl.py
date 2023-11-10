@@ -12,7 +12,8 @@ with open('./url.json', 'r', encoding='utf-8') as f:
 sourceList = ''
 reList = ["https://ghproxy.com/https://raw.githubusercontent.com","https://github.moeyy.xyz/https://raw.githubusercontent.com"]
 
-shutil.rmtree('./tv')
+if os.path.exists('./tv'):
+    shutil.rmtree('./tv')
 for item in urlJson:
     urlReq = requests.get(item["url"], verify=False)
     for reI in range(len(reList)):
