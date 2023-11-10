@@ -16,11 +16,5 @@
     "name": "fongmi_adult",
     "baes": "https://github.com/FongMi/CatVodSpider/",
     "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
-  },
-  {
-    "url": "https://github.com/bestpvp/tm/raw/main/source/stable/main.json",
-    "name": "bestpvp",
-    "baes": "https://github.com/bestpvp/tm/",
-    "path": "https://github.com/bestpvp/tm/raw/main/"
   }
 ]
