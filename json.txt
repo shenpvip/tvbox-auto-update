@@ -1,60 +1,60 @@
-gaotianliuyun_0821：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/0/gaotianliuyun_0821.json 
+gaotianliuyun_0821：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/0/gaotianliuyun_0821.json 
 
-gaotianliuyun_0821：https://cdn.staticaly.com/gh/shenpvip/tvbox-auto-update/main/tv/1/gaotianliuyun_0821.json 
+gaotianliuyun_0821：https://cdn.staticaly.com/gh/shenpvip/tvbox/main/tv/1/gaotianliuyun_0821.json 
 
-gaotianliuyun_0821：https://raw.fastgit.org/shenpvip/tvbox-auto-update/main/tv/2/gaotianliuyun_0821.json 
+gaotianliuyun_0821：https://raw.fastgit.org/shenpvip/tvbox/main/tv/2/gaotianliuyun_0821.json 
 
-gaotianliuyun_0821：https://raw.kgithub.com/shenpvip/tvbox-auto-update/main/tv/3/gaotianliuyun_0821.json 
+gaotianliuyun_0821：https://raw.kgithub.com/shenpvip/tvbox/main/tv/3/gaotianliuyun_0821.json 
 
-gaotianliuyun_0821：https://raw.iqiq.io/shenpvip/tvbox-auto-update/main/tv/4/gaotianliuyun_0821.json 
+gaotianliuyun_0821：https://raw.iqiq.io/shenpvip/tvbox/main/tv/4/gaotianliuyun_0821.json 
 
-gaotianliuyun_0821：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/5/gaotianliuyun_0821.json 
+gaotianliuyun_0821：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/5/gaotianliuyun_0821.json 
 
-fongmi：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/0/fongmi.json 
+fongmi：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/0/fongmi.json 
 
-fongmi：https://cdn.staticaly.com/gh/shenpvip/tvbox-auto-update/main/tv/1/fongmi.json 
+fongmi：https://cdn.staticaly.com/gh/shenpvip/tvbox/main/tv/1/fongmi.json 
 
-fongmi：https://raw.fastgit.org/shenpvip/tvbox-auto-update/main/tv/2/fongmi.json 
+fongmi：https://raw.fastgit.org/shenpvip/tvbox/main/tv/2/fongmi.json 
 
-fongmi：https://raw.kgithub.com/shenpvip/tvbox-auto-update/main/tv/3/fongmi.json 
+fongmi：https://raw.kgithub.com/shenpvip/tvbox/main/tv/3/fongmi.json 
 
-fongmi：https://raw.iqiq.io/shenpvip/tvbox-auto-update/main/tv/4/fongmi.json 
+fongmi：https://raw.iqiq.io/shenpvip/tvbox/main/tv/4/fongmi.json 
 
-fongmi：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/5/fongmi.json 
+fongmi：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/5/fongmi.json 
 
-fongmi_adult：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/0/fongmi_adult.json 
+fongmi_adult：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/0/fongmi_adult.json 
 
-fongmi_adult：https://cdn.staticaly.com/gh/shenpvip/tvbox-auto-update/main/tv/1/fongmi_adult.json 
+fongmi_adult：https://cdn.staticaly.com/gh/shenpvip/tvbox/main/tv/1/fongmi_adult.json 
 
-fongmi_adult：https://raw.fastgit.org/shenpvip/tvbox-auto-update/main/tv/2/fongmi_adult.json 
+fongmi_adult：https://raw.fastgit.org/shenpvip/tvbox/main/tv/2/fongmi_adult.json 
 
-fongmi_adult：https://raw.kgithub.com/shenpvip/tvbox-auto-update/main/tv/3/fongmi_adult.json 
+fongmi_adult：https://raw.kgithub.com/shenpvip/tvbox/main/tv/3/fongmi_adult.json 
 
-fongmi_adult：https://raw.iqiq.io/shenpvip/tvbox-auto-update/main/tv/4/fongmi_adult.json 
+fongmi_adult：https://raw.iqiq.io/shenpvip/tvbox/main/tv/4/fongmi_adult.json 
 
-fongmi_adult：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/5/fongmi_adult.json 
+fongmi_adult：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/5/fongmi_adult.json 
 
-liu673cn：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/0/liu673cn.json 
+liu673cn：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/0/liu673cn.json 
 
-liu673cn：https://cdn.staticaly.com/gh/shenpvip/tvbox-auto-update/main/tv/1/liu673cn.json 
+liu673cn：https://cdn.staticaly.com/gh/shenpvip/tvbox/main/tv/1/liu673cn.json 
 
-liu673cn：https://raw.fastgit.org/shenpvip/tvbox-auto-update/main/tv/2/liu673cn.json 
+liu673cn：https://raw.fastgit.org/shenpvip/tvbox/main/tv/2/liu673cn.json 
 
-liu673cn：https://raw.kgithub.com/shenpvip/tvbox-auto-update/main/tv/3/liu673cn.json 
+liu673cn：https://raw.kgithub.com/shenpvip/tvbox/main/tv/3/liu673cn.json 
 
-liu673cn：https://raw.iqiq.io/shenpvip/tvbox-auto-update/main/tv/4/liu673cn.json 
+liu673cn：https://raw.iqiq.io/shenpvip/tvbox/main/tv/4/liu673cn.json 
 
-liu673cn：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/5/liu673cn.json 
+liu673cn：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/5/liu673cn.json 
 
-zyjk_18：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/0/zyjk_18.json 
+zyjk_18：https://ghproxy.com/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/0/zyjk_18.json 
 
-zyjk_18：https://cdn.staticaly.com/gh/shenpvip/tvbox-auto-update/main/tv/1/zyjk_18.json 
+zyjk_18：https://cdn.staticaly.com/gh/shenpvip/tvbox/main/tv/1/zyjk_18.json 
 
-zyjk_18：https://raw.fastgit.org/shenpvip/tvbox-auto-update/main/tv/2/zyjk_18.json 
+zyjk_18：https://raw.fastgit.org/shenpvip/tvbox/main/tv/2/zyjk_18.json 
 
-zyjk_18：https://raw.kgithub.com/shenpvip/tvbox-auto-update/main/tv/3/zyjk_18.json 
+zyjk_18：https://raw.kgithub.com/shenpvip/tvbox/main/tv/3/zyjk_18.json 
 
-zyjk_18：https://raw.iqiq.io/shenpvip/tvbox-auto-update/main/tv/4/zyjk_18.json 
+zyjk_18：https://raw.iqiq.io/shenpvip/tvbox/main/tv/4/zyjk_18.json 
 
-zyjk_18：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox-auto-update/main/tv/5/zyjk_18.json 
+zyjk_18：https://github.moeyy.xyz/https://raw.githubusercontent.com/shenpvip/tvbox/main/tv/5/zyjk_18.json 
 
