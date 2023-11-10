@@ -4,6 +4,7 @@ import requests
 import json
 import urllib3
 import os
+import shutil
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 with open('./url.json', 'r', encoding='utf-8') as f:
@@ -11,6 +12,7 @@ with open('./url.json', 'r', encoding='utf-8') as f:
 sourceList = ''
 reList = ["https://ghproxy.com/https://raw.githubusercontent.com","https://github.moeyy.xyz/https://raw.githubusercontent.com"]
 
+shutil.rmtree('./tv')
 for item in urlJson:
     urlReq = requests.get(item["url"], verify=False)
     for reI in range(len(reList)):
@@ -32,7 +34,6 @@ for item in urlJson:
         fp.write(reqText)
 now = datetime.datetime.now()
 fp = open('json.txt', "w+", encoding='utf-8')
-fp.write(sourceList)
-fp = open('README.md', "w+", encoding='utf-8')
 fp.write("本次更新时间为：" + now.strftime("%Y-%m-%d %H:%M:%S") + "\n\n")
+fp.write(sourceList)
 fp.close()
