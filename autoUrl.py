@@ -10,7 +10,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 with open('./url.json', 'r', encoding='utf-8') as f:
     urlJson = json.load(f)
 sourceList = ''
-reList = ["https://ghproxy.com/https://raw.githubusercontent.com","https://github.moeyy.xyz/https://raw.githubusercontent.com"]
+reList = ["https://github.rocs.site/https://raw.githubusercontent.com"]
 
 if os.path.exists('./tv'):
     shutil.rmtree('./tv')
