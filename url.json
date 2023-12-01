@@ -18,9 +18,15 @@
     "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
   },
   {
-    "url": "https://github.com/liu673cn/box/raw/main/m.json",
-    "name": "liu673cn",
-    "baes": "https://github.com/liu673cn/box/",
-    "path": "https://github.com/liu673cn/box/raw/main/"
+    "url": "https://github.com/anaer/Meow/raw/main/meow.json",
+    "name": "anaer",
+    "baes": "https://github.com/anaer/Meow/",
+    "path": "https://github.com/anaer/Meow/raw/main/"
+  },
+  {
+    "url": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/warehouse.txt",
+    "name": "PizazzGY",
+    "baes": "https://github.com/PizazzGY/TVBox_warehouse/",
+    "path": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/"
   }
 ]
