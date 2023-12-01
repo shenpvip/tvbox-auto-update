@@ -26,8 +26,8 @@ for item in urlJson:
         .replace('"https://github.com', '"' + proxyUrl) \
         .replace("'https://raw.githubusercontent.com", "'" + proxyUrl) \
         .replace('"https://raw.githubusercontent.com', '"' + proxyUrl)
-    sourceList += urlName + '：' + proxyUrl + '/shenpvip/vd/main'+"/tv/" + str(reI) + "/" + urlName + ".json \n\n"
-    filePath = "./tv/" + str(reI)
+    sourceList += urlName + '：' + proxyUrl + '/shenpvip/vd/main'+"/tv/" + urlName + ".json \n\n"
+    filePath = "./tv"
     if not os.path.exists(filePath):
         os.makedirs(filePath)
     fp = open(filePath + "/" + urlName + ".json", "w+", encoding='utf-8')
