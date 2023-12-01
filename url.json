@@ -28,5 +28,11 @@
     "name": "PizazzGY",
     "baes": "https://github.com/PizazzGY/TVBox_warehouse/",
     "path": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/"
+  },
+  {
+    "url": "https://github.com/loopool/fan/raw/main/a.json",
+    "name": "loopool",
+    "baes": "https://github.com/loopool/fan/",
+    "path": "https://github.com/loopool/fan/raw/main/"
   }
 ]
