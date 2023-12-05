@@ -34,5 +34,11 @@
     "name": "loopool",
     "baes": "https://github.com/loopool/fan/",
     "path": "https://github.com/loopool/fan/raw/main/"
+  },
+  {
+    "url": "https://github.com/shichuanenhui/TvBox/raw/main/my.json",
+    "name": "shichuanenhui",
+    "baes": "https://github.com/shichuanenhui/TvBox/",
+    "path": "https://github.com/shichuanenhui/TvBox/raw/main/"
   }
 ]
