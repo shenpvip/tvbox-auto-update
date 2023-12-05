@@ -1,4 +1,4 @@
-本次更新时间为：2023-12-05 05:08:30
+本次更新时间为：2023-12-05 14:09:34
 
 gaotianliuyun_0821：https://github.rocs.site/https://raw.githubusercontent.com/shenpvip/vd/main/tv/gaotianliuyun_0821.json 
 
@@ -11,4 +11,6 @@ anaer：https://github.rocs.site/https://raw.githubusercontent.com/shenpvip/vd/m
 PizazzGY：https://github.rocs.site/https://raw.githubusercontent.com/shenpvip/vd/main/tv/PizazzGY.json 
 
 loopool：https://github.rocs.site/https://raw.githubusercontent.com/shenpvip/vd/main/tv/loopool.json 
+
+shichuanenhui：https://github.rocs.site/https://raw.githubusercontent.com/shenpvip/vd/main/tv/shichuanenhui.json 
 
