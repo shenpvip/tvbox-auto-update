@@ -1,7 +1,7 @@
 [
   {
     "url": "https://github.com/gaotianliuyun/gao/raw/master/0821.json",
-    "name": "gaotianliuyun_0821",
+    "name": "0821",
     "baes": "https://github.com/gaotianliuyun/gao/",
     "path": "https://github.com/gaotianliuyun/gao/raw/master/"
   },
@@ -13,7 +13,7 @@
   },
   {
     "url": "https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json",
-    "name": "fongmi_adult",
+    "name": "fongmi_ad",
     "baes": "https://github.com/FongMi/CatVodSpider/",
     "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
   },
@@ -25,7 +25,7 @@
   },
   {
     "url": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/warehouse.txt",
-    "name": "PizazzGY",
+    "name": "warehouse",
     "baes": "https://github.com/PizazzGY/TVBox_warehouse/",
     "path": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/"
   },
