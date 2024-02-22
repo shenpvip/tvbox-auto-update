@@ -6,18 +6,6 @@
     "path": "https://github.com/gaotianliuyun/gao/raw/master/"
   },
   {
-    "url": "https://github.com/FongMi/CatVodSpider/raw/main/json/config.json",
-    "name": "fongmi",
-    "baes": "https://github.com/FongMi/CatVodSpider/",
-    "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
-  },
-  {
-    "url": "https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json",
-    "name": "fongmi_ad",
-    "baes": "https://github.com/FongMi/CatVodSpider/",
-    "path": "https://github.com/FongMi/CatVodSpider/raw/main/"
-  },
-  {
     "url": "https://github.com/anaer/Meow/raw/main/meow.json",
     "name": "anaer",
     "baes": "https://github.com/anaer/Meow/",
