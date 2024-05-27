@@ -23,4 +23,10 @@
     "baes": "https://github.com/shichuanenhui/TvBox/",
     "path": "https://github.com/shichuanenhui/TvBox/raw/main/"
   },
+  {
+    "url": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/影视/api.json",
+    "name": "pg",
+    "baes": "https://github.com/PizazzGY/TVBox_warehouse/",
+    "path": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/"
+  }
 ]
