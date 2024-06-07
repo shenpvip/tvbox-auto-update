@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;09e7be0d15ddcaf1167b20c7fe96d886",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -154,15 +154,6 @@
             "name": "无忧短剧",
             "type": 3,
             "api": "csp_Duanj",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
-        },
-        {
-            "key": "上头短剧",
-            "name": "上头短剧",
-            "type": 3,
-            "api": "csp_Duanju",
             "searchable": 1,
             "changeable": 0,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;9a9c723f1849c4a92b4d5cc5f7df637b"
@@ -332,6 +323,30 @@
             "name": "两个磁力",
             "type": 3,
             "api": "csp_Wexbttwo",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "骚火影视",
+            "name": "骚火影视",
+            "type": 3,
+            "api": "csp_Wexsaohuo",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "在线之家",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Wexzxzj",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "精品短剧",
+            "name": "精品短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvip",
             "searchable": 1,
             "changeable": 1
         },
@@ -540,14 +555,7 @@
             "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/JS/drpy2.min.js",
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/JS/大米星球.js"
         },
-        {
-            "key": "在线之家",
-            "name": "在线之家",
-            "type": 3,
-            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/JS/drpy2.min.js",
-            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/JS/在线之家.js"
-        },
-        {
+       {
             "key": "欧帝影院",
             "name": "欧帝影院",
             "type": 3,
