@@ -1502,6 +1502,17 @@
 			"ext": "./drpy_js/即看影视.js"
 		},
 		{
+			"key": "hipy_js_极点影视",
+			"name": "极点影视(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/极点影视.js"
+		},
+		{
 			"key": "hipy_js_极客资源[资]",
 			"name": "极客资源[资](drpy_t3)",
 			"type": 3,
@@ -1555,6 +1566,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/饺子影院.js"
+		},
+		{
+			"key": "hipy_js_金金虫",
+			"name": "金金虫(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/金金虫.js"
 		},
 		{
 			"key": "hipy_js_金牌影院",
@@ -2050,6 +2072,17 @@
 			"ext": "./drpy_js/蚂蚁影视.js"
 		},
 		{
+			"key": "hipy_js_漫画走廊[画密飞]",
+			"name": "漫画走廊[画密飞](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/漫画走廊[画密飞].js"
+		},
+		{
 			"key": "hipy_js_漫小肆[画]",
 			"name": "漫小肆[画](drpy_t3)",
 			"type": 3,
@@ -2279,6 +2312,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/胖虎影视.js"
+		},
+		{
+			"key": "hipy_js_泡泡影院",
+			"name": "泡泡影院(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/泡泡影院.js"
 		},
 		{
 			"key": "PikaSo",
@@ -3674,6 +3718,17 @@
 			"ext": "./drpy_js/宇航影视.js"
 		},
 		{
+			"key": "hipy_js_云电影网",
+			"name": "云电影网(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/云电影网.js"
+		},
+		{
 			"key": "YunPan",
 			"name": "云盘资源|网盘",
 			"type": 3,
@@ -3783,6 +3838,17 @@
 			"ext": "./drpy_js/追剧兔.js"
 		},
 		{
+			"key": "hipy_js_追影TV",
+			"name": "追影TV(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/追影TV.js"
+		},
+		{
 			"key": "hipy_js_孜然影视",
 			"name": "孜然影视(drpy_t3)",
 			"type": 3,
@@ -3871,6 +3937,17 @@
 			"ext": "./drpy_js/cally66.js"
 		},
 		{
+			"key": "hipy_js_eFuns",
+			"name": "eFuns(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/eFuns.js"
+		},
+		{
 			"key": "hipy_js_freeok",
 			"name": "freeok(drpy_t3)",
 			"type": 3,
@@ -3891,6 +3968,17 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/FreeOKLOL.js"
+		},
+		{
+			"key": "hipy_js_GO影视",
+			"name": "GO影视(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/GO影视.js"
 		},
 		{
 			"key": "hipy_js_HDmoli",
