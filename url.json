@@ -12,21 +12,21 @@
     "path": "https://github.com/gaotianliuyun/gao/raw/master/"
   },
   {
+    "url": "https://github.com/PizazzGY/TVBox/raw/main/api.json",
+    "name": "pg",
+    "baes": "https://github.com/PizazzGY/TVBox/",
+    "path": "https://github.com/PizazzGY/TVBox/raw/main/"
+  },
+  {
     "url": "https://github.com/anaer/Meow/raw/main/meow.json",
     "name": "meow",
     "baes": "https://github.com/anaer/Meow/",
     "path": "https://github.com/anaer/Meow/raw/main/"
   },
-   {
+  {
     "url": "https://github.com/shichuanenhui/TvBox/raw/main/fty.json",
     "name": "fty",
     "baes": "https://github.com/shichuanenhui/TvBox/",
     "path": "https://github.com/shichuanenhui/TvBox/raw/main/"
-  },
-  {
-    "url": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/影视/api.json",
-    "name": "pg",
-    "baes": "https://github.com/PizazzGY/TVBox_warehouse/",
-    "path": "https://github.com/PizazzGY/TVBox_warehouse/raw/main/"
   }
 ]
