@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;308dabe9c096459415912ff76cd06ed1",
+    "spider": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "key": "预告",
-            "name": "豆瓣｜预告",
+            "name": "新片｜预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
@@ -1171,7 +1171,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://duopan.fun",
+                "site": "http://labipan.com",
                 "danmu": true
             }
         },
@@ -1695,6 +1695,11 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
+        },
+        {
+            "name": "推荐2",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
         },
         {
             "name": "线路1",
