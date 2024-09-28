@@ -265,7 +265,8 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://libvio.link"
             }
         },
         {
@@ -797,6 +798,13 @@
             ]
         },
         {
+            "key": "56动漫",
+            "name": "56｜动漫",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/56动漫.js"
+        },
+        {
             "key": "58动漫",
             "name": "58｜动漫",
             "type": 3,
@@ -816,6 +824,13 @@
             "type": 3,
             "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/Anime1.js"
+        },
+        {
+            "key": "动画片",
+            "name": "动画片｜动漫",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/动画片大全.js"
         },
         {
             "key": "路漫漫",
@@ -851,20 +866,6 @@
             "type": 3,
             "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/异世界.js"
-        },
-        {
-            "key": "次元城",
-            "name": "次元城｜动漫",
-            "type": 3,
-            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/次元城.js"
-        },
-        {
-            "key": "喵物次元",
-            "name": "喵物｜动漫",
-            "type": 3,
-            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/喵物次元.js"
         },
         {
             "key": "奇米动漫",
@@ -907,20 +908,6 @@
             "type": 3,
             "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/大米动漫.js"
-        },
-        {
-            "key": "维奇动漫",
-            "name": "维奇｜动漫",
-            "type": 3,
-            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/维奇动漫.js"
-        },
-        {
-            "key": "暮暮动漫",
-            "name": "暮暮｜动漫",
-            "type": 3,
-            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/暮暮动漫.js"
         },
         {
             "key": "南瓜弹幕",
@@ -982,6 +969,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://libvio.link",
                 "danmu": true
             }
         },
@@ -1067,7 +1055,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "site": "https://www.yjys02.com",
+                "site": "https://www.yjys05.com",
                 "danmu": true
             }
         },
