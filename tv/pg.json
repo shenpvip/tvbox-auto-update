@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
+    "spider": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -866,6 +866,13 @@
             "type": 3,
             "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/异世界.js"
+        },
+        {
+            "key": "好看动漫",
+            "name": "好看｜动漫",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/好看动漫.js"
         },
         {
             "key": "奇米动漫",
