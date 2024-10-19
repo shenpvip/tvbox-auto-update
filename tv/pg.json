@@ -997,6 +997,41 @@
             }
         },
         {
+            "key": "悠悠弹幕",
+            "name": "悠悠｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/悠悠弹幕.js"
+        },
+        {
+            "key": "星河弹幕",
+            "name": "星河｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/星河弹幕.js"
+        },
+        {
+            "key": "小熊弹幕",
+            "name": "小熊｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/小熊弹幕.js"
+        },
+        {
+            "key": "巨人弹幕",
+            "name": "巨人｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/巨人弹幕.js"
+        },
+        {
+            "key": "小虎斑弹幕",
+            "name": "小虎斑｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/小虎斑弹幕.js"
+        },
+        {
             "key": "三六零弹幕",
             "name": "三六零｜弹幕",
             "type": 3,
