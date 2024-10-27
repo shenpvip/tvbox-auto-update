@@ -490,16 +490,6 @@
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/畅梦影视.js"
         },
         {
-            "key": "五五影视",
-            "name": "五五｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/五五影视.json"
-        },
-        {
             "key": "子子影视",
             "name": "子子｜影视",
             "type": 3,
@@ -979,6 +969,20 @@
             }
         },
         {
+            "key": "腾讯弹幕",
+            "name": "腾讯｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯弹幕.js"
+        },
+        {
+            "key": "优酷弹幕",
+            "name": "优酷｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷弹幕.js"
+        },
+        {
             "key": "完美弹幕",
             "name": "完美｜弹幕",
             "type": 3,
@@ -991,13 +995,6 @@
             "type": 3,
             "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/悠悠弹幕.js"
-        },
-        {
-            "key": "星河弹幕",
-            "name": "星河｜弹幕",
-            "type": 3,
-            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/星河弹幕.js"
         },
         {
             "key": "小熊弹幕",
@@ -1019,6 +1016,13 @@
             "type": 3,
             "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/小虎斑弹幕.js"
+        },
+        {
+            "key": "素白白弹幕",
+            "name": "素白白｜弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/素白白弹幕.js"
         },
         {
             "key": "三六零弹幕",
@@ -1057,18 +1061,6 @@
             }
         },
         {
-            "key": "JOJO弹幕",
-            "name": "JOJO｜弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "荐片弹幕",
             "name": "荐片｜弹幕",
             "type": 3,
@@ -1093,6 +1085,13 @@
                 "site": "https://www.yjys05.com",
                 "danmu": true
             }
+        },
+        {
+            "key": "四维空间弹幕",
+            "name": "四维空间｜4K弹幕",
+            "type": 3,
+            "api": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.900730.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/四维空间弹幕.js"
         },
         {
             "key": "玩偶弹幕",
