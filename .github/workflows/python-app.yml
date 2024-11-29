@@ -26,7 +26,7 @@ jobs:
       - name: 生成json文件
         run: |
           export TZ='Asia/Shanghai'
-          python test.py
+          python autoUrl.py
       - name: 暂存提交
         run: |
           git config --global user.name 'shenpvip'
