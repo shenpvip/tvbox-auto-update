@@ -23,7 +23,7 @@ jobs:
       - name: 生成json文件
         run: |
           export TZ='Asia/Shanghai'
-          python autoUrl.py
+          python test.py
       - name: 暂存提交
         run: |
           git config --global user.name 'shenpvip'
